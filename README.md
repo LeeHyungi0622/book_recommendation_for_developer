@@ -37,6 +37,12 @@
 
 <br/>
 
+🗓️ **2021.02.06(Sat)** <br/>
+**Issue1)** Create README.md file. <br/>
+→ https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/1
+
+<br/>
+
 ## **Screen shots**
 
 <br/>
