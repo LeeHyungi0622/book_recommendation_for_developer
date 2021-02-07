@@ -38,9 +38,11 @@
 <br/>
 
 🗓️ **2021.02.06(Sat)** <br/>
-**Issue1)** Create README.md file. <br/>
-→ https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/1
-
+**Issue1)** Create README.md file.
+→[https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/1](https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/1)<br/>
+🗓️ **2021.02.07(Sun)** <br/>
+**Issue3)** Organize the fundamental folder structure of project. <br/>
+→[https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/3](https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/3)
 <br/>
 
 ## **Screen shots**
