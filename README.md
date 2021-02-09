@@ -27,7 +27,22 @@
 
 ## **Project Wire frame**
 
-(main and detail page)
+<table>
+  <tr>
+    <td>
+      <img src="img/readme_img/210207_reactjs_project_main_wireframe.png"
+      alt="210207_reactjs_project_main_wireframe">
+    </td>
+    <td>
+      <img src="img/readme_img/210207_reactjs_project_detail_wireframe.png"
+      width=400 height=200 alt="210207_reactjs_project_main_wireframe">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Main page wireframe</b></td>
+    <td align="center"><b>Detail page wireframe</b> </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -38,11 +53,20 @@
 <br/>
 
 🗓️ **2021.02.06(Sat)** <br/>
-**Issue1)** Create README.md file.
+
+(1) **Issue1)** Create README.md file.
 →[https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/1](https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/1)<br/>
+
 🗓️ **2021.02.07(Sun)** <br/>
-**Issue3)** Organize the fundamental folder structure of project. <br/>
+
+(1) **Issue3)** Organize the fundamental folder structure of project. <br/>
 →[https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/3](https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/3)
+<br/>
+
+(2) **Issue2,6)** Update main wireframe in README.md, Understand how to use Interpark book open API, Create api method to get thd data from open API. <br/>
+→[https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/2](https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/2)
+<br/>
+→[https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/6](https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/6)
 <br/>
 
 ## **Screen shots**
