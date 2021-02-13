@@ -18,10 +18,7 @@ const Router = () => (
             <Header/>
             <Suspense fallback={<Loading />}>
                 <Switch>
-                    <Route exact path="/" component={IT}>
-                        <Redirect to="/it"/>
-                    </Route>
-                    <Route path="/it" component={IT} />
+                    <Route exact path="/" component={IT}/>
                     <Route path="/development" component={Development}/>
                     <Route path="/search" component={Search} />
                 </Switch>

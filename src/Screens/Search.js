@@ -3,7 +3,9 @@ import React from "react";
 // Search page presenter component.
 const Search = () => {
     return (
-        <h1>Search</h1>
+        <div data-testid="search-wrapper">
+            <h1>Search</h1>
+        </div>
     )
 }
 
