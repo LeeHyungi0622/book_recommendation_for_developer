@@ -2,6 +2,9 @@
 
 ## **Project**
 
+<img src="img/readme_img/210213_dev_book_img.jpeg"
+      alt="210213_dev_book_img"/>
+
 - **Title :** 개발자를 위한 책 정보 제공 사이트
 - **Description :** 컴퓨터 공학, 개발 서적 두 개의 Category로 구성이 되며, 전체서적에 대한 검색기능도 제공합니다. (`초기 계획`)
 
