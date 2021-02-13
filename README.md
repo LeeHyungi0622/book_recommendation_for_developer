@@ -2,6 +2,9 @@
 
 ## **Project**
 
+<img src="img/readme_img/210213_dev_book_img.jpeg"
+      alt="210213_dev_book_img"/>
+
 - **Title :** 개발자를 위한 책 정보 제공 사이트
 - **Description :** 컴퓨터 공학, 개발 서적 두 개의 Category로 구성이 되며, 전체서적에 대한 검색기능도 제공합니다. (`초기 계획`)
 
@@ -69,6 +72,15 @@
 →[https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/6](https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/6)
 <br/>
 
+🗓️ **2021.02.13(Sat)** <br/>
+
+(1) **Issue8) Create header, router components and update app component** <br/>
+→ [https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/8](https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/8)
+
+(2) **Issue10)** Create unit test file and write test code for issue #8<br/>
+→ [https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/10](https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/10)
+
+<br/>
 ## **Screen shots**
 
 <br/>
