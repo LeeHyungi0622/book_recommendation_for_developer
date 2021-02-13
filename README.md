@@ -69,6 +69,15 @@
 →[https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/6](https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/6)
 <br/>
 
+🗓️ **2021.02.13(Sat)** <br/>
+
+(1) **Issue8) Create header, router components and update app component** <br/>
+→ [https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/8](https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/8)
+
+(2) **Issue10)** Create unit test file and write test code for issue #8<br/>
+→ [https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/10](https://github.com/LeeHyungi0622/book_recommendation_for_developer/issues/10)
+
+<br/>
 ## **Screen shots**
 
 <br/>
